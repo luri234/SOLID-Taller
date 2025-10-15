@@ -1,0 +1,10 @@
+com\mycompany\ds\Product.class
+com\mycompany\ds\Ds.class
+com\mycompany\ds\ShoppingCart.class
+com\mycompany\ds\IVACalculator.class
+com\mycompany\ds\ReceiptSender.class
+com\mycompany\ds\Technology.class
+com\mycompany\ds\Book.class
+com\mycompany\ds\DigitalProduct.class
+com\mycompany\ds\Clothing.class
+com\mycompany\ds\PhysicalProduct.class
